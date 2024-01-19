@@ -1,0 +1,44 @@
+.chats {
+    width: 30%;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: #2627223f;
+}
+
+.me {
+    width: 50%;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: #77f36cee;
+}
+
+.message {
+    width: 50%;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: #b6c4b4ee;
+    margin-left: 40px;
+}
+
+.head {
+    display: flex;
+    justify-content: space-between;
+}
+
+.divEl {
+  border: 2px solid;
+  padding: 5px;
+  border-radius: 5px;
+  background-color: #2222;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-direction: row-reverse;
+  margin: 10px 275px;
+}

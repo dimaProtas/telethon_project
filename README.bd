@@ -1,0 +1,11 @@
+Telethon project
+Приложения для взаимодействия с telegram
+
+- Авторизация по qr-code telegram
+- Возможность получать чаты телеграм
+- Отправка сообщений в чаты
+- Парсер selenium для Wildberis
+- backend FastAPI
+- документация Swagger UI '''http://127.0.0.1:8000/docs'''
+- настроен websocket для авторизации по qr коду
+- для frontend использовал JavaScript и fetch запросы
